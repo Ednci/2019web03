@@ -1,0 +1,27 @@
+[18116] [ERR] [bnl] [External(0)] [External()] [2019-10-20T13:13:49.225Z]: PathOps: [20191020T21:13:49] {46e4} ERR: .. is the leading path component: /../.build.info
+[18116] [ERR] [bnl] [External(0)] [External()] [2019-10-20T13:13:49.225Z]: PathOps: [20191020T21:13:49] {46e4} ERR: path normalization failed: /../.build.info
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T13:13:52.564Z]: #= VoiceClient: ERROR:+ Cannot set active mic to unknown device 
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T13:13:52.678Z]: #= VoiceClient: ERROR:+ Cannot set active speaker to unknown device 
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T13:13:53.093Z]: #= VoiceClient: ERROR:+ Cannot set active mic to unknown device 
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T13:21:32.888Z]: #= VoiceClient: ERROR:+ Channel 1829061307 not found for member 4240666033 request MEMBER_MODIFY
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T13:21:32.888Z]: #= VoiceClient: ERROR:+ Channel 1829061307 not found for member 250544753 request MEMBER_MODIFY
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T13:21:32.888Z]: #= VoiceClient: ERROR:+ Channel 1829061307 not found for member 1404888793 request MEMBER_MODIFY
+[18116] [ERR] [bnl] [External(0)] [External()] [2019-10-20T13:22:21.603Z]: BNL_Voice: [20191020T21:22:21] {46e4} ERR: underlying SDK response error | type: 'resp_session_set_participant_mute_for_me' code: 20900 (Conference server command error.)
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T13:22:21.603Z]: #= VoiceClient: ERROR:Failed to set member 655758156 field MEMBER_FIELD_IS_MUTED_ME with error 2(4)
+[18116] [ERR] [bnl] [External(0)] [External()] [2019-10-20T13:22:25.939Z]: BNL_Voice: [20191020T21:22:25] {46e4} ERR: underlying SDK response error | type: 'resp_session_set_participant_mute_for_me' code: 20900 (Conference server command error.)
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T13:22:25.939Z]: #= VoiceClient: ERROR:Failed to set member 1016236060 field MEMBER_FIELD_IS_MUTED_ME with error 2(4)
+[18116] [ERR] [bnl] [External(0)] [External()] [2019-10-20T13:22:33.532Z]: BNL_Voice: [20191020T21:22:33] {46e4} ERR: underlying SDK response error | type: 'resp_session_set_participant_mute_for_me' code: 10056 ()
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T13:50:36.614Z]: #= VoiceClient: ERROR:+ Channel 2090905393 not found for member 2112979073 request MEMBER_MODIFY
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T13:50:36.614Z]: #= VoiceClient: ERROR:+ Channel 2090905393 not found for member 264231146 request MEMBER_MODIFY
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T13:50:36.614Z]: #= VoiceClient: ERROR:+ Channel 2090905393 not found for member 655758156 request MEMBER_MODIFY
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T13:50:36.614Z]: #= VoiceClient: ERROR:+ Channel 2090905393 not found for member 2776866364 request MEMBER_MODIFY
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T13:50:36.614Z]: #= VoiceClient: ERROR:+ Channel 2090905393 not found for member 1016236060 request MEMBER_MODIFY
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T14:00:14.053Z]: #= VoiceClient: ERROR:+ Channel 1243906859 not found for member 1050020333 request MEMBER_MODIFY
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T14:08:55.677Z]: #= VoiceClient: ERROR:+ Channel 632305369 not found for member 1050020333 request MEMBER_MODIFY
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T14:08:55.677Z]: #= VoiceClient: ERROR:+ Channel 632305369 not found for member 4272157090 request MEMBER_MODIFY
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T14:08:55.677Z]: #= VoiceClient: ERROR:+ Channel 632305369 not found for member 2148255841 request MEMBER_MODIFY
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T14:08:55.677Z]: #= VoiceClient: ERROR:+ Channel 632305369 not found for member 942124331 request MEMBER_MODIFY
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T14:08:55.677Z]: #= VoiceClient: ERROR:+ Channel 632305369 not found for member 710315529 request MEMBER_MODIFY
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T14:49:25.125Z]: #= VoiceClient: ERROR:+ Channel 530889632 not found for member 3561635541 request MEMBER_MODIFY
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T14:49:25.126Z]: #= VoiceClient: ERROR:+ Channel 530889632 not found for member 4098629120 request MEMBER_MODIFY
+[18116] [ERR] [Game] [External(0)] [External()] [2019-10-20T14:49:25.126Z]: #= VoiceClient: ERROR:+ Channel 530889632 not found for member 2239773535 request MEMBER_MODIFY
